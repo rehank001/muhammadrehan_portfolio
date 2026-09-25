@@ -34,7 +34,7 @@ export function Contact() {
               <Reveal delay={200}>
                 <div className="mt-8 flex flex-wrap items-center gap-3">
                   <a
-                    href="mailto:maliktabish54352@gmail.com"
+                    href="mailto:rehankhan.corp@gmail.com"
                     className="group inline-flex items-center gap-2 rounded-full bg-accent px-6 py-3.5 text-sm font-semibold text-accent-foreground transition-transform hover:scale-[1.03]"
                   >
                     <Mail className="size-4" />
@@ -65,7 +65,7 @@ export function Contact() {
 
             <Reveal delay={160}>
               <form
-                action="mailto:maliktabish54352@gmail.com"
+                action="mailto:rehankhan.corp@gmail.com"
                 method="POST"
                 encType="text/plain"
                 className="rounded-2xl border border-border bg-background/60 p-6 backdrop-blur"
